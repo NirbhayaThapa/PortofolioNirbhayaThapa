@@ -1,0 +1,44 @@
+body{
+	background-color:lightyellow;
+} 
+#p1{
+	font-size:20px;
+	border-width:5px;
+	padding:5px;
+	font-style:italic;
+	color:silver;
+	background-color: red;
+}
+#p2{
+	font-size:20px;
+	color:yellow;
+	padding:5px;
+	border-width:5px;
+	font-style:bold;
+	background-color: blueviolet;
+}
+#p3{
+	font-size:20px;
+	font-style:cursive;
+	color:brown;
+	border-width:5px;
+	padding:5px;
+	background-color:seagreen;
+}
+nav{
+	font-size:15px;
+	word-spacing:20px;
+	padding:5px;
+	border-width:5px;
+	background-color:deepskyblue;
+	font-family:sans-serif,"Times New Roman";
+a:hover{
+	color:lightgoldenrodyellow;
+	font-size:18px;
+}
+}
+input{
+	width:25%;
+	border-width:1px;
+	font-family:monospace,sans-serif;
+}
